@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/professional-portfolio/static/css/main.841d3677.css",
+    "main.js": "/professional-portfolio/static/js/main.fbef7ad9.js",
+    "static/media/Weatherex-screenshot.png": "/professional-portfolio/static/media/Weatherex-screenshot.91c05db3df3acfdc9cba.png",
+    "static/media/Profile.png": "/professional-portfolio/static/media/Profile.303744c7bcd7b2c5db3a.png",
+    "static/media/Profile-2.png": "/professional-portfolio/static/media/Profile-2.1b30898ece6e27fe528d.png",
+    "static/media/blog.png": "/professional-portfolio/static/media/blog.00892197b33210bc368d.png",
+    "static/media/Quizify.png": "/professional-portfolio/static/media/Quizify.70b7567aee758c1c5496.png",
+    "static/media/Daily-scheduler.png": "/professional-portfolio/static/media/Daily-scheduler.281880de23532058524a.png",
+    "static/media/home-page.png": "/professional-portfolio/static/media/home-page.2b7d149b06fdda7c904e.png",
+    "static/media/color-flipper.png": "/professional-portfolio/static/media/color-flipper.2a71a4f49cdaabdea2b8.png",
+    "index.html": "/professional-portfolio/index.html",
+    "main.841d3677.css.map": "/professional-portfolio/static/css/main.841d3677.css.map",
+    "main.fbef7ad9.js.map": "/professional-portfolio/static/js/main.fbef7ad9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.841d3677.css",
+    "static/js/main.fbef7ad9.js"
+  ]
+}
