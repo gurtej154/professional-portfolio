@@ -1,7 +1,7 @@
 .main {
     min-height: 100vh;
     max-width: 100%;
-    background-color: #f8efef;
+    background-color: #e5f7e2;
     position: relative;
 
     &::before,&::after {
@@ -54,7 +54,7 @@
         color: rgb(157, 155, 155);
 
         &:hover {
-            color: red;
+            color: rgb(7, 139, 7);
         }
     }
 }
@@ -75,7 +75,7 @@
         padding: 15px 40px;
         margin-top: 2rem;
         margin-right: 1rem;
-        background: linear-gradient(25deg,rgba(1, 60, 210, 0.753),rgb(255, 72, 6));
+        background: linear-gradient(25deg,rgba(1, 210, 36, 0.753),rgb(6, 238, 255));
         color: #fff;
         border: 1px solid #fff;
         cursor: pointer;

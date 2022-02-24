@@ -14,7 +14,7 @@ const Main = () => {
                     <div className="text">
                             <p>What's up!</p>
                             <h1>I am Gurtej Singh</h1>
-                            <p>Full-stack Developer & Freelance</p>
+                            <p>Full-stack Developer & Freelancer</p>
 
                             <div className="icons">
                                 <Twitter className='icon'/>

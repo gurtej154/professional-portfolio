@@ -1,7 +1,7 @@
 .section {
     width: 100%;
     min-height: 100vh;
-    background:linear-gradient(45deg,rgba(101, 11, 228, 0.77),rgba(244, 67, 2, 0.562));
+    background:linear-gradient(45deg,rgba(152, 228, 11, 0.77),rgba(22, 244, 2, 0.562));
     overflow: hidden;
 
 }
@@ -49,7 +49,7 @@
         &:hover {
             transform: scale(110%);
             transition: 250ms;
-            color: firebrick;
+            color: rgb(4, 119, 23);
         }
     }
 }

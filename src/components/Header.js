@@ -1,4 +1,4 @@
-import { Close, FiberManualRecordOutlined, MenuOutlined } from '@material-ui/icons'
+import { Close, MenuOutlined } from '@material-ui/icons'
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom'
 import './styles/Header.scss'
@@ -16,7 +16,7 @@ const Header = () => {
         <div className='header'>
 
                     <div className="header__logo">
-                        <h1>Leedd</h1>
+                        <h1>GS.</h1>
                     </div>
 
             <nav className={active ? 'navbar active' : 'navbar'}>
@@ -29,16 +29,10 @@ const Header = () => {
                         <Link to='/'>Home</Link>
                     </li>
                     <li>
-                        <Link to='/'>About</Link>
+                        <Link to='/section'>About</Link>
                     </li>
                     <li>
-                        <Link to='/'>Portfolio</Link>
-                    </li>
-                    <li>
-                        <Link to='/'>Pages</Link>
-                    </li>
-                    <li>
-                        <Link to='/'>Blog</Link>
+                        <Link to='/projects'>Portfolio</Link>
                     </li>
                     <li>
                         <Link to='/contact'>Contact</Link>

@@ -6,7 +6,7 @@ import './styles/Contact.scss'
 const Contact = () => {
     return (
         <div className='contact'>
-            <Link to='/'>
+            <Link to='/Professional-portfolio'>
                 <ArrowBack className='arrow'/>
             </Link>
             <div className="inputs">
